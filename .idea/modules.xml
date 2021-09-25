@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CountDigits/CountDigits.iml" filepath="$PROJECT_DIR$/CountDigits/CountDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java DS.iml" filepath="$PROJECT_DIR$/.idea/Java DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime Numbers/Prime Numbers.iml" filepath="$PROJECT_DIR$/Prime Numbers/Prime Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime numbers till N/Prime numbers till N.iml" filepath="$PROJECT_DIR$/Prime numbers till N/Prime numbers till N.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Print digits/Print digits.iml" filepath="$PROJECT_DIR$/Print digits/Print digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse Number/Reverse Number.iml" filepath="$PROJECT_DIR$/Reverse Number/Reverse Number.iml" />
+    </modules>
+  </component>
+</project>
